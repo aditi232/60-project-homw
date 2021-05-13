@@ -1,0 +1,9 @@
+img{
+    transition: transform.2s;
+    border: 10px soild #aaaaaa;
+    text-align: center;
+}
+
+img:hover{
+    transform:scale(0.9);
+}
